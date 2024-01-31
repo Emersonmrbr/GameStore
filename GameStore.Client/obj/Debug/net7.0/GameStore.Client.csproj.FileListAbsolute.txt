@@ -824,3 +824,6 @@ D:\GameStore\GameStore.Client\obj\Debug\net7.0\GameStore.Client.dll
 D:\GameStore\GameStore.Client\obj\Debug\net7.0\refint\GameStore.Client.dll
 D:\GameStore\GameStore.Client\obj\Debug\net7.0\GameStore.Client.pdb
 D:\GameStore\GameStore.Client\obj\Debug\net7.0\ref\GameStore.Client.dll
+D:\GameStore\GameStore.Client\bin\Debug\net7.0\package-lock.json
+D:\GameStore\GameStore.Client\bin\Debug\net7.0\package.json
+D:\GameStore\GameStore.Client\obj\Debug\net7.0\GameStore.Client.sourcelink.json
